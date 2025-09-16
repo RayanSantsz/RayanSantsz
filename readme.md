@@ -21,6 +21,8 @@ Dedicated student focused on backend development, leveraging **SQL, Python, Fast
 <br/>
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
+
 <!--imagem gmail-->
 <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
         <!--imagem linkedin-->
