@@ -6,7 +6,7 @@
 
 Dedicated student focused on backend development, leveraging **SQL, Python, FastAPI, Flask, and MongoDB** to build efficient and scalable solutions. Combining technical expertise with proactiveness and fast-learning skills, I aim to contribute to challenging projects by applying coding best practices and security principles. Eager to collaborate with innovative teams and grow professionally in dynamic environments.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
 ### 🚀 Languages and Tools
 
